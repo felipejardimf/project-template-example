@@ -1,4 +1,4 @@
-# < projectName >
+# < NomeDoProjeto >
 <fig>
 <img src="project_ex.jpg" alt="Uma imagem relacionada ao projeto">
 <figcaption>Uma imagem relacionada ao projeto</figcaption>
@@ -13,7 +13,7 @@ Para executar o projeto, utilize as ferramentas descritas na sessão *Ferramenta
 ## Links importantes
 * [Spring Boot Rest API](https://medium.com/better-programming/building-a-spring-boot-rest-api-a-php-developers-view-part-i-6add2e794646) -  API com Spring Boot.
 
-# < projectName >
+# < NomeDoProjeto >
 
 ## Introdução
 
