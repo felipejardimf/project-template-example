@@ -7,8 +7,16 @@
 ## Inicialização
 Para executar o projeto, utilize as ferramentas descritas na sessão *Ferramentas*.
 
-## Ferramentas
-* [IntelliJ](https://www.jetbrains.com/idea/) - IDE para desenvolvimento.
+### Tecnologias utilizadas
+
+
+* [![Pandas][Pandas]][Pandas-url]
+* [![Requests][Requests]][Requests-url]
+
+[Pandas-url]: https://pandas.pydata.org/
+[Pandas]: images/pandas_logo.png
+[Requests-url]: https://requests.readthedocs.io/en/latest/
+[Requests]: images/requests_logo.png
 
 ## Links importantes
 * [Spring Boot Rest API](https://medium.com/better-programming/building-a-spring-boot-rest-api-a-php-developers-view-part-i-6add2e794646) -  API com Spring Boot.
