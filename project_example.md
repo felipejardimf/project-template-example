@@ -10,23 +10,14 @@ Para executar o projeto, utilize as ferramentas descritas na sessão *Ferramenta
 ### Tecnologias utilizadas
 
 
-* [![Pandas][Pandas]][Pandas-url]
-* [![Requests][Requests]][Requests-url]
-
-[Pandas-url]: https://pandas.pydata.org/
-[Pandas]: images/pandas_logo.png
-[Requests-url]: https://requests.readthedocs.io/en/latest/
-[Requests]: images/requests_logo.png
-
-## Links importantes
-* [Spring Boot Rest API](https://medium.com/better-programming/building-a-spring-boot-rest-api-a-php-developers-view-part-i-6add2e794646) -  API com Spring Boot.
+* [Pandas](https://pandas.pydata.org/) - Biblioteca para análise de dados com Python
+* [Requests](https://requests.readthedocs.io/en/latest/) - Biblioteca de requisições HTTP
 
 # < NomeDoProjeto >
 
 ## Introdução
 
-> É interessante colocar aqui uma visão bem geral, aquilo que você falaria em uma reunião rápida.  
-> Vai ser a resposta que você da pra sua tia quando ela pergunta o que está fazendo da vida.
+> Visão geral  
 
 Este projeto possui o objetivo principal **< descreva o objetivo principal >**.  
 Com os objetivos gerais de realizar a inserção de **< objeto >** e verificação de **< objeto >**. 
