@@ -40,26 +40,16 @@ As ferramentas utilizadas para o desenvolvimento incluem **< linguagem para back
 Os requisitos devem ser validados com a cliente e aprovados.
 > Aprovar os requisitos com o cliente é o mais importante, se não for validado o documento não será válido.
 
-### Requisitos Funcionais
-Respeitando a proposta, o sistema deverá atender os seguintes requisitos:
-
-* **RF1** - Requisito funcional 1.
-* **RF2** - Requisito funcional 2.
-* **RF3** - Requisito funcional 3.
-
-> O requisito funcional está relacinado as funcionalidades citadas. Por exemplo "Geração de relatório de determinado período de vendas". [Verifique mais detalhes aqui](https://codificar.com.br/requisitos-funcionais-nao-funcionais/).
-
 ## Regras de Negócio
 
 _Solicitação_  
 
-**RGN1** -  O cliente só fará a solicitação se estiver cadastrado e logado.  
+**RGN1** -  A variável X + Y deve ser somada todas as vezes que tivermos requisições via API.
 
 _Agendamento_  
 
 **RGN2** - O cliente só fará a agendamento se estiver 2 anos no sistema.   
 
-> As regras de negócio estão relacionadas as dependencias do sistema, por exemplo "depois de x tempo" ou "para clientes de x perfil".
 
 ## Casos de Uso
 
@@ -67,7 +57,7 @@ _Agendamento_
 
 Ao entrar no sistema pela primeira vez o usuário deve cadastrar suas informações. O usuário deverá informar seu perfil.
 
-<img src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/examples/flowchart-templates/system-flowchart.svg">
+<img src="https://www.programiz.com/sites/tutorial2program/files/flowchart-2.jpg">
 
 > Imagine que fosse necessário enviar um email sempre que realizado o login, esse email deveria estar no fluxograma. Esse fluxograma pode ser mais simples, apenas com o objetivo de validar com o cliente que as dependências de negócio estão validadas em cada caso de negócio.
 
