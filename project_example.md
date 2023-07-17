@@ -53,13 +53,9 @@ _Agendamento_
 
 ## Casos de Uso
 
-**UC1** - *Login no sistema*
-
-Ao entrar no sistema pela primeira vez o usuário deve cadastrar suas informações. O usuário deverá informar seu perfil.
 
 <img src="https://www.programiz.com/sites/tutorial2program/files/flowchart-2.jpg">
 
-> Imagine que fosse necessário enviar um email sempre que realizado o login, esse email deveria estar no fluxograma. Esse fluxograma pode ser mais simples, apenas com o objetivo de validar com o cliente que as dependências de negócio estão validadas em cada caso de negócio.
 
 ### Mensagens internas
 
@@ -75,4 +71,4 @@ Rotas utilizadas pela aplicação web para executar metodos de **POST** e **GET*
 |```PUT``` /atualizaUsuario|Atualiza o usuário.|
 
 ## Conceitos básicos
-* [Design pattern](https://www.opus-software.com.br/design-patterns/) - Design Patterns ou padrões de projetos são soluções generalistas para problemas recorrentes durante o desenvolvimento de um software. Mais informações no [catalogo de design pattern](https://refactoring.guru/design-patterns). 
+
